@@ -14,6 +14,6 @@ public class AMAZON extends BuilderContrato{
 
     @Override
     public void buildListaDeCanales(){
-        this.contrato.setListaDeCanales("Jumaji, ")
+        this.contrato.setListaDeCanales("Jumaji, No digas su nombre, Cuando las luces se apagn");
     }
 }

@@ -34,4 +34,10 @@ public class Contrato {
         this.listaDeCanales = listaDeCanales;
         return this;
     }
+
+    public void showInfo(){
+        System.out.println("El costo es: " + costo);
+        System.out.println("La empresa es: " + empresa);
+        System.out.println("La lista de canales es: " + listaDeCanales);
+    }
 }

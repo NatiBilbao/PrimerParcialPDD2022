@@ -14,7 +14,7 @@ public class HBO extends BuilderContrato{
 
     @Override
     public void buildListaDeCanales(){
-        this.contrato.setListaDeCanales("Csi");
+        this.contrato.setListaDeCanales("Csi, Rapidos y Furiosos, Duro de matar");
     }
 
 }
